@@ -4,7 +4,7 @@
 #### The Statistics of Our Proposed Dataset CUBITv2
 <img src="Figures/CUBIT2024-dis.png" width="700">
 
-#### Benchmark Qualitative Comparison on CUBIT2024 Data and Intra-domain Data
+#### Benchmark Qualitative Comparison on CUBITv2 Data and Intra-domain Data
 <img src="Figures/CUBIT2024-compare-vis.png" width="700">
 
 #### Zero-shot Qualitative Comparison on Cross-domain SUT-Crack Dataset
