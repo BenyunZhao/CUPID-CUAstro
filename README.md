@@ -19,7 +19,7 @@
 #### Real-world Inspection with LiDAR SLAM and Autonomous Navigation
 <img src="Figures/realworld.png" width="700">
 
-#### Video demonstration [▶️ Watch CU-Astro inspection demonstration video](https://drive.google.com/file/d/1FpcyERS4jL63FTaFTfUBEfYAKC6yVO0b/view?usp=drive_link)
+#### Video demonstration [▶️ Watch CU-Astro inspection demonstration video](https://drive.google.com/file/d/1V7Vpv59O1YwhGQnovLhyikQqvPRhHryI/view?usp=sharing)
 
 ## Usage of this repository
 ### Install
