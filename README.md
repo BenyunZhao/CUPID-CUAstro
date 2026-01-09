@@ -1,7 +1,7 @@
 # CUPID defect detector and CU-Astro aerial platform
 
 ## Result of our work
-#### The Statistics of Our Proposed Dataset CUBIT2024
+#### The Statistics of Our Proposed Dataset CUBITv2
 <img src="Figures/CUBIT2024-dis.png" width="700">
 
 #### Benchmark Qualitative Comparison on CUBIT2024 Data and Intra-domain Data
